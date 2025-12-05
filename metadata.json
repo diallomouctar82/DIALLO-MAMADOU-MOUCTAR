@@ -1,0 +1,7 @@
+{
+  "name": "LE MONDE À VOUS",
+  "description": "Plateforme Mondiale d'Assistants IA Connectés - Premium Global AI Assistant Platform",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
